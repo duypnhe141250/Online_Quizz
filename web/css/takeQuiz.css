@@ -1,0 +1,51 @@
+.border{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.input{
+    margin-left: 40px;
+    width: 90px;
+}
+.button_takeQ{
+    margin-left: 260px;
+    font-size: 16px;
+}
+.margin_take{
+    margin-top: 30px;
+    margin-bottom: 5px;
+}
+.timer{
+    margin-left: 250px;
+    margin-bottom: 24px;
+}
+#time{
+    color: red;
+}
+.take_question{
+    width: 600px;
+}
+.a_label{
+    color: #4b7185;
+}
+.next_question{
+    margin-left: 600px;
+    margin-top: 5px;
+}
+.none{
+    display: none;
+}
+.block{
+    display: block;
+}
+.label_Question{
+    margin-left: 40px;
+    margin-bottom: 6px;
+    margin-top: 0px;
+    color: #4b7185;
+}
+.option{
+    margin-left: 40px;
+}
+.new_Start{
+    font-size: 16px;
+}

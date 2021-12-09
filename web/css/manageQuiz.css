@@ -1,0 +1,57 @@
+.form_number{
+    margin-top: 40px;
+}
+.form_item{
+    display: flex;
+    margin-bottom: 5px;
+}
+.column{
+    font-size: 20px;
+    color: blue;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.margin_Question{
+    margin-left: 376px;
+}
+.left{
+    flex: 2;
+    margin: 0px;
+}
+.right{
+    flex: 1;
+    margin: 0px;
+    padding-left: 50px;
+}
+.form_content{
+    margin-top: 0px;
+}
+.q_content{
+    color: #4b7185;
+    display: inline-block;
+    margin: 0px;
+}
+.pager{
+    float: right;
+    margin-right: 50px;
+}
+.pager a
+{
+    border-radius: 5px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: buttonhighlight;
+    padding: 3px;
+    margin: 2px;
+    color: #3E4E44;
+    text-decoration: none;
+}
+.pager span
+{
+    color: red;
+}
+.error{
+    color: red;
+    text-align: center;
+}
+

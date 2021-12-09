@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context antiJARLocking="true" path="/Online_Quiz">
+  <Environment name="dbURL" type="java.lang.String" value="jdbc:sqlserver://localhost:1433;databaseName=Online_Quiz"/>
+  <Environment name="dbUsername" type="java.lang.String" value="sa"/>
+  <Environment name="dbPassword" type="java.lang.String" value="123456"/>
+</Context>

@@ -1,0 +1,93 @@
+body{
+    background-image: url("../images/bg.jpg");
+    font-family: sans-serif;
+}
+.container{
+    height: auto;
+    margin: 0 auto;
+    width: 700px;
+    background-color: white;
+    border-top-left-radius: 20px 20px;
+    border-top-right-radius: 20px 20px;
+}
+.top_box{
+    background-image: url("../images/top_box.gif");
+    height: 19px;
+    width: 700px;
+    margin-top: 25px; 
+}
+.menu{
+    background-image: url("../images/menu_bg.gif");
+    height: 51px;
+    width: 663px;
+    margin: 0 auto;
+}
+ul{
+    display: flex;
+    list-style: none;
+}
+li{
+    margin-top: 18px;
+}
+li a{
+    text-decoration: none;
+    color: #62584d;
+    margin: 0 12px;
+    font-weight: bold;
+}
+.content{
+    padding-bottom: 120px;
+}
+.label{
+    margin-left: 40px;
+    margin-bottom: 6px;
+    margin-top: 0px;
+    color: #4b7185;
+    display: inline-block;
+}
+.name{
+    color: blue;
+}
+.text{
+    margin-left: 40px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    color:#000080;
+    font-weight: bold;
+}
+.width_input{
+    width: 200px;
+}
+.margin_left{
+    margin-left: 11px;
+}
+.mess{
+    margin-left: 60px;
+    color: red;
+}
+.button{
+    margin-left: 130px;
+    font-size: 16px;
+}
+.register{
+    margin-left: 0px;
+    color: #658fa9;
+    text-decoration: none;
+}
+.margin_username{
+    margin-left: 49px;
+}
+.margin_password{
+    margin-left: 60px;
+}
+.comboxBox{
+    width: 110px;
+    margin-left: 57px;
+    font-size: 10px;
+}
+.margin_email{
+    margin-left: 90px;
+}
+.margin_register{
+    margin-left: 179px;
+}
